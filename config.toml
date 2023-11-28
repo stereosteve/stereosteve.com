@@ -2,3 +2,6 @@ baseURL = 'https://stereosteve.com/'
 languageCode = 'en-us'
 title = 'stereosteve.com'
 theme = 'ananke'
+
+[params]
+  mainSections = ['notes']
